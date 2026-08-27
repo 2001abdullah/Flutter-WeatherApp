@@ -1,6 +1,6 @@
 # Weather App
 
-A professional, responsive weather application built with Flutter that provides real-time updates, detailed hourly and weekly forecasts, and global location search capabilities.
+A  responsive weather application built with Flutter that provides real-time updates, detailed hourly and weekly forecasts, and global location search capabilities.
 
 ## Features
 
