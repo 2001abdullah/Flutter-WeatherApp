@@ -2,6 +2,9 @@
 
 A  responsive weather application built with Flutter that provides real-time updates, detailed hourly and weekly forecasts, and global location search capabilities.
 
+# A quick demo
+this is the link to the demo of the application: https://youtube.com/shorts/5W6Z3mhLU60?feature=share
+
 ## Features
 
 - **Global Location Search**: Search and set locations worldwide using the Open-Meteo Geocoding API.
